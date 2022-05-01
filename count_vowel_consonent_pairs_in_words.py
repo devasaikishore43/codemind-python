@@ -10,5 +10,3 @@ for d in n:
         if d[i] not in z and d[len(d)-(i+1)] in z:
             c+=1
 print(c)
-
-        
